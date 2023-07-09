@@ -1,0 +1,4 @@
+task.txt
+*.py
+!main.py
+node/
