@@ -1,4 +1,2 @@
-NNN
-AZE
 Dash
 Login
